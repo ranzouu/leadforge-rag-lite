@@ -1,0 +1,20 @@
+[
+  {
+    "id": "Q1",
+    "niche": "academia",
+    "query": "Qual o perfil ideal de academia para prospecção?",
+    "expected_policy_id": "P1"
+  },
+  {
+    "id": "Q2",
+    "niche": "pet",
+    "query": "Como priorizar petshops na prospecção?",
+    "expected_policy_id": "P2"
+  },
+  {
+    "id": "Q3",
+    "niche": "restaurante",
+    "query": "Qual a abertura recomendada para restaurantes?",
+    "expected_policy_id": "P3"
+  }
+]

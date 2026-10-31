@@ -1,0 +1,2 @@
+[console_scripts]
+leadforge-rag = leadforge_rag_lite.cli:main

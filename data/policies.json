@@ -1,0 +1,20 @@
+[
+  {
+    "id": "P1",
+    "niche": "academia",
+    "title": "Política de prospecção — Academias",
+    "content": "Para academias, priorize leads com foco em musculação e funcional. Use abertura por dor: 'organização de horários' e 'retenção de alunos'. Evite leads que já tem Personal Trainer fixo."
+  },
+  {
+    "id": "P2",
+    "niche": "pet",
+    "title": "Política de prospecção — Petshops",
+    "content": "Para petshops, priorize leads com atendimento presencial e banho/tosa. Destaque redução de faltas e agenda automatizada. Evite leads 100% delivery sem espaço físico."
+  },
+  {
+    "id": "P3",
+    "niche": "restaurante",
+    "title": "Política de prospecção — Restaurantes",
+    "content": "Para restaurantes, priorize delivery e atendimento local. Use abertura por cardápio digital e cupons. Evite leads sem presença digital confirmada."
+  }
+]

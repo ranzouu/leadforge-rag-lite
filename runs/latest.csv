@@ -1,0 +1,4 @@
+query_id,niche,query,expected_policy_id,retrieved_1,retrieved_2,retrieved_3,hit_at_3,mrr_at_3,latency_ms,answer,raw
+Q1,academia,Qual o perfil ideal de academia para prospecção?,P1,P1,P2,P3,True,1.0,0.1,"Para academias, priorizamos leads com foco em musculação e funcional, usando abertura por dor como organização de horários e retenção de alunos.",
+Q2,pet,Como priorizar petshops na prospecção?,P2,P2,P1,P3,True,1.0,0.07,"Para petshops, priorizamos leads com atendimento presencial e banho/tosa, destacando redução de faltas e agenda automatizada.",
+Q3,restaurante,Qual a abertura recomendada para restaurantes?,P3,P1,P3,P2,True,0.5,0.04,"Para restaurantes, priorizamos delivery e atendimento local, usando abertura por cardápio digital e cupons.",
